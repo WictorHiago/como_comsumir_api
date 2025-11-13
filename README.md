@@ -62,7 +62,6 @@ Antes de começar, certifique-se de ter instalado:
 
 ```bash
 git clone <url-do-repositorio>
-cd api-ecommerce
 ```
 
 2. **Instale as dependências**
@@ -617,7 +616,7 @@ print(response.json())
 
 ## 📄 Licença
 
-Este projeto está sob a licença ISC. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ---
 
