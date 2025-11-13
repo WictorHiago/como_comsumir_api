@@ -25,6 +25,12 @@ Uma API REST simples e didática desenvolvida em Node.js/Express que simula um s
 
 Esta API foi desenvolvida com fins educacionais para demonstrar como criar e consumir uma API REST. O projeto simula um sistema de e-commerce básico, permitindo consultar produtos e categorias através de endpoints HTTP.
 
+### Pronto para uso no VERCEL
+
+```bash
+https://como-comsumir-api.vercel.app/
+```
+
 ### Características
 
 - ✅ API RESTful completa
